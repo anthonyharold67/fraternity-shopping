@@ -51,7 +51,7 @@ const Contact = () => {
         <div className={styles.card}>
           <img className={styles.cardImage} alt="person" src={person4} />
           <div className={styles.cardBody}>
-            <h3 className={styles.cardText}>Ahmet Suat Pinar</h3>
+            <h3 className={styles.cardText}>Ahmet Suat PINAR</h3>
             <div sx={{display:"flex",height:"auto"}}>
             <Grid item xs={4}> <a href="https://www.linkedin.com/in/ahmet-suat-pinar/" target="_blank" rel="noopener noreferrer" style={{color:'white',fontSize:25}}> <LinkedInIcon/> </a>
             <a href="https://github.com/ahmetsuat67" target="_blank" rel="noopener noreferrer" style={{color:'white',fontSize:25}}> <GitHubIcon  /> </a> 
