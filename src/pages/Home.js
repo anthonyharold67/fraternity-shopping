@@ -1,5 +1,5 @@
 import React from 'react'
-
+import styles from './css/Home.module.css'
 
 const Home = () => {
 
@@ -19,25 +19,26 @@ const Home = () => {
       alignItems: "center",
       justifyContent: "center",
     }}>
-          <h1 style={{
-            fontFamily: "fantasy",
-            fontSize: "5rem",
-            color: "white",
-            textAlign: "center",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-            marginTop: "50px",
-            marginBottom: "50px",
-            marginLeft: "50px",
-            marginRight: "50px",
-            backgroundColor: "rgba(0,0,0,0.5)",
-            borderRadius: "50px",
-            padding: "10px",
-            border: "1px solid white",
-            boxShadow: "0px 0px 10px black",
-            letterSpacing: "5px"
-          }}
+          <h1 className={styles.header}
+//             style={{
+//             fontFamily: "fantasy",
+//             fontSize: "5rem",
+//             color: "white",
+//             textAlign: "center",
+//             display: "flex",
+//             alignItems: "center",
+//             justifyContent: "center",
+//             marginTop: "50px",
+//             marginBottom: "50px",
+//             marginLeft: "50px",
+//             marginRight: "50px",
+//             backgroundColor: "rgba(0,0,0,0.5)",
+//             borderRadius: "50px",
+//             padding: "10px",
+//             border: "1px solid white",
+//             boxShadow: "0px 0px 10px black",
+//             letterSpacing: "5px"
+//           }}
           >Hello! Welcome to Fraternity Team Shopping</h1>
       </div>
   )
