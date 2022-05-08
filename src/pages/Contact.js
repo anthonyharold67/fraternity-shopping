@@ -33,7 +33,7 @@ const Contact = () => {
             <div sx={{display:"flex",height:"auto"}}>
             <Grid item xs={4}> <a href="https://www.linkedin.com/in/enesunlu/" target="_blank" rel="noopener noreferrer" style={{color:'white',fontSize:25}}> <LinkedInIcon/> </a>
             <a href="https://github.com/enes9103" target="_blank" rel="noopener noreferrer" style={{color:'white',fontSize:25}}> <GitHubIcon  /> </a> 
-             <a href="mailto:anthonyharold@gmail.com" target="_blank" rel="noopener noreferrer" style={{color:'white',fontSize:25}}> <GoogleIcon /> </a> </Grid>
+             <a href="mailto:enes9103@gmail.com" target="_blank" rel="noopener noreferrer" style={{color:'white',fontSize:25}}> <GoogleIcon /> </a> </Grid>
             </div>
           </div>
         </div>
