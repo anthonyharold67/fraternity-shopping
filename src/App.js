@@ -13,8 +13,6 @@ function App() {
         <ToastContainer />
       </ProductContextProvider>
       </AuthContextProvider>
-
-      
     </div>
   );
 }
