@@ -128,24 +128,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-<a href="https://my-portfolio-page-resume.herokuapp.com/">
+<a href="https://github.com/codeFraternity">
 <img border="0" alt="Enes UNLU" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
 </a>
 
-<a href="https://www.linkedin.com/in/enesunlu/">
+<a href="https://github.com/codeFraternity">
 <img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
-<a href="https://twitter.com/Enes9103">
+<a href="https://github.com/codeFraternity">
 <img border="0" alt="Enes UNLU" src="https://img.icons8.com/nolan/40/twitter.png"/>
 </a>
 
-<a href="https://www.instagram.com/enesunlu0303/">
+<a href="https://github.com/codeFraternity">
 <img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
-</a>
-
-<a href="https://t.me/Enes9103">
-<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
 </a>
 
 <a href="mailto:enes9103@gmail.com">
@@ -156,13 +152,6 @@ Project Link: [https://github.com/enes9103](https://github.com/enes9103)
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-## Support
-
-<p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="aryasoni98" /></a>
-
- <p align="right">(<a href="#top">back to top</a>)</p>
  
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
