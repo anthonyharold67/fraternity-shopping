@@ -1,4 +1,6 @@
 # Fraternity Team e-Shopping Project
+It is a shopping application prepared for teamwork. Firebase is used for database and login/register operations. Operations such as adding a product to the cart, increasing the quantity of the product in the cart when trying to add the same product, keeping the cart in the database if the user leaves before completing the shopping, and pulling the cart from the database when he logs in again were applied.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
